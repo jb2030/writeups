@@ -18,4 +18,4 @@ Preparing for OSCP+ certification (2026).
 OSCP-aligned learning path with detailed writeups.
 
 **Progress:** Starting January 2026
- 
+
