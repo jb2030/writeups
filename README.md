@@ -6,9 +6,9 @@ Professional penetration testing reports and security research following OSCP me
 
 Security researcher specializing in:
 - 🔒 AI/LLM Security  
-- 🌐 Web Application Pentesting
+- 🌐 API/Mobile/Web Application Pentesting
 - 🖥️ Infrastructure Security
-- 🏢 24 years banking cybersecurity experience
+- 🏢 26 years banking cybersecurity experience
 
 Preparing for OSCP+ certification (2026).
 
